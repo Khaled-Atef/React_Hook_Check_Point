@@ -1,0 +1,14 @@
+.myForm {
+  display: flex;
+  margin: 50px;
+}
+
+.child {
+  border: 2px solid blue;
+  margin: 20px;
+  padding: 15px;
+}
+
+.click {
+  margin-left: 50%;
+}
